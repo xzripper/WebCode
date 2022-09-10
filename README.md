@@ -1,8 +1,6 @@
+<p align="center"><img src="WebCode\webcode.png"><br><i>WebCode.</i></p>
+
 # WebCode - Tool for checking any web site status in few seconds.
-
-<img src="webcode.png">
-
-Example:<br><img src="WebCodeExample.png">
 
 ## Installation.
 Dependencies:<br>
